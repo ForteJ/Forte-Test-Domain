@@ -1,0 +1,6 @@
+{
+  "appId": "com.huddlecrew.app",
+  "appName": "Huddle Crew",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
